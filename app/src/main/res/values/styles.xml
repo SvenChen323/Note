@@ -1,0 +1,76 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="mainColor">@color/green</item>
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/green</item>
+    </style>
+
+
+    <style name="MaterialSearchViewStyle">
+        <!-- Background for the search bar-->
+        <item name="searchBackground">@color/search_background</item>
+        <!-- Change voice icon-->
+        <item name="searchVoiceIcon">@drawable/ic_action_voice_search_inverted</item>
+        <!-- Change clear text icon-->
+        <item name="searchCloseIcon">@drawable/ic_action_navigation_close_inverted</item>
+        <!-- Change up icon-->
+        <item name="searchBackIcon">@drawable/ic_action_navigation_arrow_back_inverted</item>
+        <!-- Change icon for the suggestions-->
+        <item name="searchSuggestionIcon">@drawable/ic_suggestion</item>
+        <!-- Change background for the suggestions list view-->
+        <item name="searchSuggestionBackground">@android:color/black</item>
+        <!-- Change text color for edit text. This will also be the color of the cursor-->
+        <item name="android:textColor">@android:color/black</item>
+        <!-- Change hint text color for edit text-->
+        <item name="android:textColorHint">#bcb8ba</item>
+        <!-- Hint for edit text-->
+        <item name="android:hint">@string/search_hint</item>
+    </style>
+    
+    
+    <style name="AppTheme.Base.Green" parent="AppTheme">
+        <item name="mainColor">@color/green</item>
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/green</item>
+    </style>
+
+    <style name="AppTheme.Base.Red" parent="AppTheme">
+        <item name="mainColor">@color/red</item>
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red</item>
+        <item name="colorAccent">@color/red</item>
+    </style>
+
+    <style name="AppTheme.Base.Blue" parent="AppTheme">
+        <item name="mainColor">@color/blue</item>
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+    <style name="AppTheme.Base.Yellow" parent="AppTheme">
+        <item name="mainColor">@color/yellow</item>
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/yellow</item>
+        <item name="colorAccent">@color/yellow</item>
+    </style>
+
+    <style name="AppTheme.Base.Purple" parent="AppTheme">
+        <item name="mainColor">@color/purple</item>
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryDark">@color/purple</item>
+        <item name="colorAccent">@color/purple</item>
+    </style>
+
+    <style name="AppTheme.Base.Pink" parent="AppTheme">
+        <item name="mainColor">@color/pink</item>
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/pink</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+</resources>
