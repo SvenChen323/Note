@@ -4,8 +4,8 @@
 ---
 	1.1显示时间戳
 	
-![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/1.png)
-![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/2.png)
+![](https://github.com/SvenChen323/Note/blob/master/screen/1.png)
+![](https://github.com/SvenChen323/Note/blob/master/screen/2.png)
 <br>
 通过修改数据库数据信息，添加一个修改时间的long字段
 添加了一个TextView显示时间戳
