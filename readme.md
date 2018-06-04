@@ -1,4 +1,4 @@
-笔记本
+备忘录
 ====
 1.基础功能
 ---
@@ -7,14 +7,14 @@
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/1.png)
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/2.png)
 <br>
-修改数据库数据信息，添加一个修改时间的long字段
+通过修改数据库数据信息，添加一个修改时间的long字段
 添加了一个TextView显示时间戳
 	
 	1.2搜索功能
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/3.png)
 <br>
 	
-可根据title搜索
+可根据title进行搜索
 使用了toolbar + searchview + recyclerview 实现搜索功能
 	
 	
