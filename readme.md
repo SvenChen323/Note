@@ -23,10 +23,14 @@
 	2.1美化UI
 	
 	2.2一键换肤
+	
+
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/4.png)
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/5.png)
 ![](https://raw.githubusercontent.com/DerrickChanJL/DerrickChanJL.github.io/master/images/6.png)
-	使用了 DialogFragment + Recyclerview + 自定义监听器
+	
+	
+使用了 DialogFragment + Recyclerview + 自定义监听器
 
 
 <br>
